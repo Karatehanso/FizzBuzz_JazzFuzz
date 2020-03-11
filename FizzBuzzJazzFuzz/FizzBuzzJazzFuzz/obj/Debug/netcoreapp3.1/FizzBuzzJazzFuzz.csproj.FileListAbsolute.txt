@@ -1,0 +1,11 @@
+C:\Users\Audun Berg\RiderProjects\FizzBuzzJazzFuzz\FizzBuzzJazzFuzz\bin\Debug\netcoreapp3.1\FizzBuzzJazzFuzz.exe
+C:\Users\Audun Berg\RiderProjects\FizzBuzzJazzFuzz\FizzBuzzJazzFuzz\bin\Debug\netcoreapp3.1\FizzBuzzJazzFuzz.deps.json
+C:\Users\Audun Berg\RiderProjects\FizzBuzzJazzFuzz\FizzBuzzJazzFuzz\bin\Debug\netcoreapp3.1\FizzBuzzJazzFuzz.runtimeconfig.json
+C:\Users\Audun Berg\RiderProjects\FizzBuzzJazzFuzz\FizzBuzzJazzFuzz\bin\Debug\netcoreapp3.1\FizzBuzzJazzFuzz.runtimeconfig.dev.json
+C:\Users\Audun Berg\RiderProjects\FizzBuzzJazzFuzz\FizzBuzzJazzFuzz\bin\Debug\netcoreapp3.1\FizzBuzzJazzFuzz.dll
+C:\Users\Audun Berg\RiderProjects\FizzBuzzJazzFuzz\FizzBuzzJazzFuzz\bin\Debug\netcoreapp3.1\FizzBuzzJazzFuzz.pdb
+C:\Users\Audun Berg\RiderProjects\FizzBuzzJazzFuzz\FizzBuzzJazzFuzz\obj\Debug\netcoreapp3.1\FizzBuzzJazzFuzz.csprojAssemblyReference.cache
+C:\Users\Audun Berg\RiderProjects\FizzBuzzJazzFuzz\FizzBuzzJazzFuzz\obj\Debug\netcoreapp3.1\FizzBuzzJazzFuzz.AssemblyInfoInputs.cache
+C:\Users\Audun Berg\RiderProjects\FizzBuzzJazzFuzz\FizzBuzzJazzFuzz\obj\Debug\netcoreapp3.1\FizzBuzzJazzFuzz.AssemblyInfo.cs
+C:\Users\Audun Berg\RiderProjects\FizzBuzzJazzFuzz\FizzBuzzJazzFuzz\obj\Debug\netcoreapp3.1\FizzBuzzJazzFuzz.dll
+C:\Users\Audun Berg\RiderProjects\FizzBuzzJazzFuzz\FizzBuzzJazzFuzz\obj\Debug\netcoreapp3.1\FizzBuzzJazzFuzz.pdb
