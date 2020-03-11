@@ -16,4 +16,5 @@ La til noen kommentarer.
 Det er ikke lagt til noen test, kun kode
 
 
+
 Audun Martin Veungen Berg
