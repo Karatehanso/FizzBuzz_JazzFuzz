@@ -4,7 +4,7 @@ using System.Linq;
 
 
 
-    public class Funksjon
+    public class FizzBuzzMethod
     {
         
         //divide_number_one = integer som er delelig med
@@ -13,7 +13,7 @@ using System.Linq;
         //bool reversed:  true = da kjører man fra valgt iterator til 1, false = fra 1 til valgt iterator
 
         
-        public void FizzBuzzJazzFuzz(int divide_number_one, int divide_number_two, string replace_word_one, string replace_word_two, int iterates, bool reversed)
+        public void FizzBuzz(int divide_number_one, int divide_number_two, string replace_word_one, string replace_word_two, int iterates, bool reversed)
 
         {
             //Normal for loop

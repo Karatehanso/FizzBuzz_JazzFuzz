@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\Audun Berg\\RiderProjects\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
+    "projectUniqueName": "C:\\Users\\Audun Berg\\RiderProjects\\FizzBuzz_JazzFuzz\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
     "projectName": "FizzBuzz",
-    "projectPath": "C:\\Users\\Audun Berg\\RiderProjects\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
-    "outputPath": "C:\\Users\\Audun Berg\\RiderProjects\\FizzBuzz\\FizzBuzz\\obj\\",
+    "projectPath": "C:\\Users\\Audun Berg\\RiderProjects\\FizzBuzz_JazzFuzz\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
+    "outputPath": "C:\\Users\\Audun Berg\\RiderProjects\\FizzBuzz_JazzFuzz\\FizzBuzz\\FizzBuzz\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.1"

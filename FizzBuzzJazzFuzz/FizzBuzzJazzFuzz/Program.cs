@@ -8,15 +8,15 @@ namespace FizzBuzzJazzFuzz
         static void Main(string[] args)
         {
             
-            Funksjon funksjon = new Funksjon();
+            FizzBuzzMethod fizzBuzzMethod = new FizzBuzzMethod();
 
             //I funksjonene under kan man putte inn de argumentene man ønsker
             
             //Vanlig FizzBuzz 
-            funksjon.FizzBuzzJazzFuzz(3,5,"Fizz","Buzz", 100,false);
+            fizzBuzzMethod.FizzBuzz(3,5,"Fizz","Buzz", 100,false);
             
             //Modifisert FizzBuzz mattelek
-            funksjon.FizzBuzzJazzFuzz(4,9,"Fuzz","Jazz", 100,true);
+            fizzBuzzMethod.FizzBuzz(4,9,"Fuzz","Jazz", 100,true);
 
             
         }

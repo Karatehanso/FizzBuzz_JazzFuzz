@@ -9,3 +9,14 @@ C:\Users\Audun Berg\RiderProjects\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\Fizz
 C:\Users\Audun Berg\RiderProjects\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfo.cs
 C:\Users\Audun Berg\RiderProjects\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.dll
 C:\Users\Audun Berg\RiderProjects\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.pdb
+C:\Users\Audun Berg\RiderProjects\FizzBuzz_JazzFuzz\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.exe
+C:\Users\Audun Berg\RiderProjects\FizzBuzz_JazzFuzz\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.deps.json
+C:\Users\Audun Berg\RiderProjects\FizzBuzz_JazzFuzz\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.runtimeconfig.json
+C:\Users\Audun Berg\RiderProjects\FizzBuzz_JazzFuzz\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.runtimeconfig.dev.json
+C:\Users\Audun Berg\RiderProjects\FizzBuzz_JazzFuzz\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.dll
+C:\Users\Audun Berg\RiderProjects\FizzBuzz_JazzFuzz\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.pdb
+C:\Users\Audun Berg\RiderProjects\FizzBuzz_JazzFuzz\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.csprojAssemblyReference.cache
+C:\Users\Audun Berg\RiderProjects\FizzBuzz_JazzFuzz\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\Audun Berg\RiderProjects\FizzBuzz_JazzFuzz\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfo.cs
+C:\Users\Audun Berg\RiderProjects\FizzBuzz_JazzFuzz\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.dll
+C:\Users\Audun Berg\RiderProjects\FizzBuzz_JazzFuzz\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.pdb

@@ -7,9 +7,9 @@ namespace FizzBuzz
         static void Main(string[] args)
         {
 
-            Funksjon funksjon = new Funksjon();
+            FizzBuzzMethod fizzBuzzMethod = new FizzBuzzMethod();
 
-            funksjon.FizzBuzz();
+            fizzBuzzMethod.FizzBuzz();
             
         }
     }

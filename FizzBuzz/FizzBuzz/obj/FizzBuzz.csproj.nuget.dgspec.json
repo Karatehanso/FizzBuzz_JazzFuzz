@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Audun Berg\\RiderProjects\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj": {}
+    "C:\\Users\\Audun Berg\\RiderProjects\\FizzBuzz_JazzFuzz\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Audun Berg\\RiderProjects\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj": {
+    "C:\\Users\\Audun Berg\\RiderProjects\\FizzBuzz_JazzFuzz\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Audun Berg\\RiderProjects\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
+        "projectUniqueName": "C:\\Users\\Audun Berg\\RiderProjects\\FizzBuzz_JazzFuzz\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
         "projectName": "FizzBuzz",
-        "projectPath": "C:\\Users\\Audun Berg\\RiderProjects\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
+        "projectPath": "C:\\Users\\Audun Berg\\RiderProjects\\FizzBuzz_JazzFuzz\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
         "packagesPath": "C:\\Users\\Audun Berg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Audun Berg\\RiderProjects\\FizzBuzz\\FizzBuzz\\obj\\",
+        "outputPath": "C:\\Users\\Audun Berg\\RiderProjects\\FizzBuzz_JazzFuzz\\FizzBuzz\\FizzBuzz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Audun Berg\\AppData\\Roaming\\NuGet\\NuGet.Config"

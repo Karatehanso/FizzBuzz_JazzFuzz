@@ -1,15 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0eb47337-f5ce-41c0-9e99-155ea78f3eec" name="Default Changelist" comment="" />
+    <list default="true" id="0eb47337-f5ce-41c0-9e99-155ea78f3eec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FizzBuzz/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FizzBuzz/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FizzBuzz/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FizzBuzz/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz/Funksjon.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FizzBuzz/Funksjon.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FizzBuzz/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz/bin/Debug/netcoreapp3.1/FizzBuzz.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FizzBuzz/bin/Debug/netcoreapp3.1/FizzBuzz.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz/bin/Debug/netcoreapp3.1/FizzBuzz.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/FizzBuzz/bin/Debug/netcoreapp3.1/FizzBuzz.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz/obj/FizzBuzz.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FizzBuzz/obj/FizzBuzz.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz/obj/FizzBuzz.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/FizzBuzz/obj/FizzBuzz.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/FizzBuzz/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FizzBuzz/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/FizzBuzz/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzzJazzFuzz/.idea/.idea.FizzBuzzJazzFuzz/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FizzBuzzJazzFuzz/.idea/.idea.FizzBuzzJazzFuzz/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzzJazzFuzz/.idea/.idea.FizzBuzzJazzFuzz/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FizzBuzzJazzFuzz/.idea/.idea.FizzBuzzJazzFuzz/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzzJazzFuzz/FizzBuzzJazzFuzz/Funksjon.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../FizzBuzzJazzFuzz/FizzBuzzJazzFuzz/FizzBuzzMethod.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzzJazzFuzz/FizzBuzzJazzFuzz/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../FizzBuzzJazzFuzz/FizzBuzzJazzFuzz/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzzJazzFuzz/FizzBuzzJazzFuzz/bin/Debug/netcoreapp3.1/FizzBuzzJazzFuzz.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../FizzBuzzJazzFuzz/FizzBuzzJazzFuzz/bin/Debug/netcoreapp3.1/FizzBuzzJazzFuzz.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzzJazzFuzz/FizzBuzzJazzFuzz/bin/Debug/netcoreapp3.1/FizzBuzzJazzFuzz.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../FizzBuzzJazzFuzz/FizzBuzzJazzFuzz/bin/Debug/netcoreapp3.1/FizzBuzzJazzFuzz.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzzJazzFuzz/FizzBuzzJazzFuzz/obj/Debug/netcoreapp3.1/FizzBuzzJazzFuzz.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../FizzBuzzJazzFuzz/FizzBuzzJazzFuzz/obj/Debug/netcoreapp3.1/FizzBuzzJazzFuzz.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzzJazzFuzz/FizzBuzzJazzFuzz/obj/Debug/netcoreapp3.1/FizzBuzzJazzFuzz.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../FizzBuzzJazzFuzz/FizzBuzzJazzFuzz/obj/Debug/netcoreapp3.1/FizzBuzzJazzFuzz.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzzJazzFuzz/FizzBuzzJazzFuzz/obj/Debug/netcoreapp3.1/FizzBuzzJazzFuzz.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../FizzBuzzJazzFuzz/FizzBuzzJazzFuzz/obj/Debug/netcoreapp3.1/FizzBuzzJazzFuzz.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzzJazzFuzz/FizzBuzzJazzFuzz/obj/Debug/netcoreapp3.1/FizzBuzzJazzFuzz.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../FizzBuzzJazzFuzz/FizzBuzzJazzFuzz/obj/Debug/netcoreapp3.1/FizzBuzzJazzFuzz.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzzJazzFuzz/FizzBuzzJazzFuzz/obj/Debug/netcoreapp3.1/FizzBuzzJazzFuzz.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../FizzBuzzJazzFuzz/FizzBuzzJazzFuzz/obj/Debug/netcoreapp3.1/FizzBuzzJazzFuzz.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzzJazzFuzz/FizzBuzzJazzFuzz/obj/FizzBuzzJazzFuzz.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../FizzBuzzJazzFuzz/FizzBuzzJazzFuzz/obj/FizzBuzzJazzFuzz.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzzJazzFuzz/FizzBuzzJazzFuzz/obj/FizzBuzzJazzFuzz.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../FizzBuzzJazzFuzz/FizzBuzzJazzFuzz/obj/FizzBuzzJazzFuzz.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzzJazzFuzz/FizzBuzzJazzFuzz/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../FizzBuzzJazzFuzz/FizzBuzzJazzFuzz/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzzJazzFuzz/FizzBuzzJazzFuzz/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../FizzBuzzJazzFuzz/FizzBuzzJazzFuzz/obj/project.packagespec.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/FizzBuzz/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/FizzBuzz/Funksjon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FizzBuzz/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -21,6 +55,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1YtETS7mXVYxMxM6fBmfMnCgfWD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,6 +63,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.4" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -75,31 +111,33 @@
       <option name="presentableId" value="Default" />
       <updated>1583753498284</updated>
       <workItem from="1583753502698" duration="1578000" />
+      <workItem from="1583896357346" duration="258000" />
+      <workItem from="1583897216465" duration="99000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="WindowStateProjectService">
-    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1583778802264">
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1583897314607">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1583778802264" />
-    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1583778802264">
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1583897314607" />
+    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1583897314607">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1583778802264" />
-    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1583778802264">
+    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1583897314607" />
+    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1583897314607">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1583778802264" />
-    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1583778802264">
+    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1583897314607" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1583897314607">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1583778802264" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1583897314607" />
     <state x="872" y="432" key="Rider.ProjectTemplateDialog.Size" timestamp="1583753551947">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

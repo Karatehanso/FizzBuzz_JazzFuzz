@@ -2,7 +2,7 @@ using System;
 
 namespace FizzBuzz
 {
-    public class Funksjon
+    public class FizzBuzzMethod
     {
 
         public void FizzBuzz()
